@@ -34,3 +34,16 @@ Ao implementar os eventos de click nos botões "+" e "-" para alterar a quantida
 
 
 ![Carrinho-Casa-do-Código-29-December-2022](https://user-images.githubusercontent.com/91328590/210020572-e4b37159-5520-40c8-bb9c-c75ba3a9693d.gif)
+
+
+## Finalizando cadastro / Pedido
+
+
+![image](https://user-images.githubusercontent.com/91328590/210184865-5929ab61-29fc-457f-8dce-d97fa8238f00.png)
+
+![image](https://user-images.githubusercontent.com/91328590/210184877-8228e3ea-d87d-4e93-b12e-c2ac9e60689e.png)
+
+Ao finalizar cadastro adicionado dados do cliente e endereço, podemos finalizar o pedido mostrando a view de resumo como é um projeto fictício não temos forma de pagamento e nem envio resumo por correio eletrônico.
+
+
+
